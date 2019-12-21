@@ -82,6 +82,7 @@ export default {
         padding: 10px 20px;
         font-size: 14px;
         letter-spacing: 0.1em;
+        background-color: #ffffff;
         cursor: pointer;
         transition: all 0.3s ease-out;
 
