@@ -54,6 +54,7 @@ export default {
     position: relative;
     display: flex;
     border: 1px solid #42b983;
+    background-color: #fff;
     outline: none;
     border-radius: 20px;
     padding: 0;
@@ -82,7 +83,7 @@ export default {
         padding: 10px 20px;
         font-size: 14px;
         letter-spacing: 0.1em;
-        background-color: #ffffff;
+        background-color: transparent;
         cursor: pointer;
         transition: all 0.3s ease-out;
 
